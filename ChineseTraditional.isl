@@ -1,5 +1,6 @@
-﻿; *** Inno Setup version 6.1.0+ Chinese (Traditional) messages ***
-; Name: Enfeng Tsao, nelson22768384@gmail.com
+﻿; *** Inno Setup version 6.4.0+ Chinese (Traditional) messages ***
+; Name: Mikhail Tapio, mikhailtapio13468@outlook.com
+; Based on 6.1.0+ translations by Enfeng Tsao, Email: nelson22768384@gmail.com
 ; Based on 5.5.3+ translations by Samuel Lee, Email: 751555749@qq.com
 ; Translation based on network resource
 ;
